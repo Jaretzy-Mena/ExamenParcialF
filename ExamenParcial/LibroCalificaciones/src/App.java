@@ -78,8 +78,6 @@ public class App {
         System.out.println();
         //
         
-        
-
         lector.close();
     }
 }
