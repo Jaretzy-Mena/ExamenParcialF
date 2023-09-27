@@ -49,28 +49,28 @@ public class App {
         }
         System.out.println();
         //
-        System.out.println("Reprobados ("+cosito[1]+")");
+        System.out.println("Regular ("+cosito[1]+")");
         System.out.println("Barras: ");
         for (int i = 0; i < cosito[1]; i++) {
             System.out.print("*");
         }
         System.out.println();
         //
-        System.out.println("Reprobados ("+cosito[2]+")");
+        System.out.println("Bueno ("+cosito[2]+")");
         System.out.println("Barras: ");
         for (int i = 0; i < cosito[2]; i++) {
             System.out.print("*");
         }
         System.out.println();
         //
-        System.out.println("Reprobados ("+cosito[3]+")");
+        System.out.println("Muy bueno ("+cosito[3]+")");
         System.out.println("Barras: ");
         for (int i = 0; i < cosito[3]; i++) {
             System.out.print("*");
         }
         System.out.println();
         //
-        System.out.println("Reprobados ("+cosito[4]+")");
+        System.out.println("Excelente ("+cosito[4]+")");
         System.out.println("Barras: ");
         for (int i = 0; i < cosito[4]; i++) {
             System.out.print("*");
